@@ -1,1 +1,1 @@
-print("hellow world")
+print("ÖMER SENİN AMINAKOYİM")
