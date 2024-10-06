@@ -1,1 +1,1 @@
-print("ÖMER SENİN AMINAKOYİM")
+print("Yarrağımı ye")
